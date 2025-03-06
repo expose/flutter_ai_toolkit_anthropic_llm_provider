@@ -1,0 +1,5 @@
+#include "../../Flutter/Flutter-Release.xcconfig"
+#include "Warnings.xcconfig"
+
+// Set minimum deployment target
+MACOSX_DEPLOYMENT_TARGET = 11.3
